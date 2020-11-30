@@ -1,0 +1,17 @@
+
+    
+    .boxshadow:hover{ box-shadow:  1px 1px 1px black, 0 0 15px white, 0 0 3px white; background-image:radial-gradient(rgb(10, 25, 50,0.90) 20%, rgb(19, 31, 46)80%);}
+    .boxshadow{transition: 0.25s; t }
+    .grande{background-color: rgb(63, 63, 63, 0.95);  padding:  3%; margin-top: 3%;  box-shadow: 10px 10px 10px black; background-image:linear-gradient(to bottom, rgb(10, 25, 50,0.90), rgb(10, 13, 20));  opacity: 0.98}
+
+    .itemselecao{height: 100px; overflow: hidden;  background-image:radial-gradient(rgb(10, 25, 50,0.90) 20%, rgb(10, 13, 20)80%);   }
+    .cadastro{ background-image:linear-gradient(to bottom, rgb(10, 25, 50,0.90), rgb(10, 13, 20)); opacity: 0.96; color: white; box-shadow:  1px 1px 1px black, 0 0 15px white, 0 0 3px white;}
+    .tituloo{   transition: 1s;   }
+    .tituloo:hover{ text-shadow: 1px 1px 2px black, 0 0 25px yellow, 0 0 5px yellow; transform: rotate(0.2deg); }
+ p{color: white;}
+
+    input{ border: none;
+  box-sizing: border-box;
+  border-bottom: 1px solid #ebebeb;
+  background: transparent; color: white;}
+   }
